@@ -1,0 +1,16 @@
+body {
+    background-color: CadetBlue;
+  }
+  
+  svg {
+  background-color: CadetBlue;  
+  }
+  
+  #signature {
+    position: relative;
+     margin-top: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+     font-family: Roboto;
+     }
